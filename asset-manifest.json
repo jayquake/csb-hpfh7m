@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://jayquake.github.io/csb-hpfh7m/static/css/main.1803bc70.chunk.css",
+    "main.js": "https://jayquake.github.io/csb-hpfh7m/static/js/main.071af183.chunk.js",
+    "main.js.map": "https://jayquake.github.io/csb-hpfh7m/static/js/main.071af183.chunk.js.map",
+    "runtime-main.js": "https://jayquake.github.io/csb-hpfh7m/static/js/runtime-main.6953107f.js",
+    "runtime-main.js.map": "https://jayquake.github.io/csb-hpfh7m/static/js/runtime-main.6953107f.js.map",
+    "static/js/2.5d38d5fe.chunk.js": "https://jayquake.github.io/csb-hpfh7m/static/js/2.5d38d5fe.chunk.js",
+    "static/js/2.5d38d5fe.chunk.js.map": "https://jayquake.github.io/csb-hpfh7m/static/js/2.5d38d5fe.chunk.js.map",
+    "index.html": "https://jayquake.github.io/csb-hpfh7m/index.html",
+    "static/css/main.1803bc70.chunk.css.map": "https://jayquake.github.io/csb-hpfh7m/static/css/main.1803bc70.chunk.css.map",
+    "static/js/2.5d38d5fe.chunk.js.LICENSE.txt": "https://jayquake.github.io/csb-hpfh7m/static/js/2.5d38d5fe.chunk.js.LICENSE.txt",
+    "static/media/home.60bbe47b.mp4": "https://jayquake.github.io/csb-hpfh7m/static/media/home.60bbe47b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6953107f.js",
+    "static/js/2.5d38d5fe.chunk.js",
+    "static/css/main.1803bc70.chunk.css",
+    "static/js/main.071af183.chunk.js"
+  ]
+}
